@@ -1,7 +1,7 @@
 # EVENT-MANAGEMENT-AND-CLIENT-ANALYTICS-SYSTEM
 ## A data-driven event planning and booking management system that tracks clients,event types, packages, additional services, and booking information using Excel dashboards and automation.
 
-"""
+---
 ## Overview
 This project presents a complete event management system built in Excel with dashboards and automation.
 It tracks client details, event bookings, packages, pricing, and additional services across multiple event
@@ -9,7 +9,7 @@ categories such as Weddings, Birthdays, Conferences, Theme Events, and more.
 
 Using structured data tables, slicers, and dynamic dashboards, the system helps event organizers monitor bookings,
 analyze customer demand, calculate costs, and manage operational workflows from inquiry to final billing.
-"""
+---
 
 ## Objectives
 - Organize and maintain complete client booking data (ID, Name, Event, Date, Package).  
@@ -48,4 +48,4 @@ analyze customer demand, calculate costs, and manage operational workflows from 
 ---
 
 ## Author
-author = "Fathima Rushda K"
+Fathima Rushda K
